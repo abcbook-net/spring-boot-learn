@@ -3,13 +3,23 @@
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/hello-world/pom.xml" />
         <option value="$PROJECT_DIR$/test-hello/pom.xml" />
         <option value="$PROJECT_DIR$/properties/pom.xml" />
         <option value="$PROJECT_DIR$/lombok/pom.xml" />
         <option value="$PROJECT_DIR$/thymeleaf/pom.xml" />
         <option value="$PROJECT_DIR$/web-parameter/pom.xml" />
+        <option value="$PROJECT_DIR$/advanced/pom.xml" />
+        <option value="$PROJECT_DIR$/advanced/thymeleaf/pom.xml" />
+        <option value="$PROJECT_DIR$/advanced/unified-result/pom.xml" />
+        <option value="$PROJECT_DIR$/advanced/web-parameter/pom.xml" />
+        <option value="$PROJECT_DIR$/start/pom.xml" />
+        <option value="$PROJECT_DIR$/start/hello-world/pom.xml" />
+        <option value="$PROJECT_DIR$/start/properties/pom.xml" />
+        <option value="$PROJECT_DIR$/start/test-hello/pom.xml" />
+        <option value="$PROJECT_DIR$/tools-and-plug/pom.xml" />
+        <option value="$PROJECT_DIR$/tools-and-plug/lombok/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
   </component>

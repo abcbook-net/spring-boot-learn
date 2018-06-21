@@ -7,24 +7,31 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="advanced" />
         <module name="hello-world" />
-        <module name="hello-world (1)" />
         <module name="lombok" />
         <module name="properties" />
         <module name="spring-boot-learn" />
+        <module name="start" />
         <module name="test-hello" />
         <module name="thymeleaf" />
+        <module name="tools-and-plug" />
+        <module name="unified-result" />
         <module name="web-parameter" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="advanced" target="1.5" />
       <module name="hello-world" target="1.8" />
       <module name="hello-world (1)" target="1.8" />
       <module name="lombok" target="1.8" />
       <module name="properties" target="1.8" />
       <module name="spring-boot-learn" target="1.5" />
+      <module name="start" target="1.5" />
       <module name="test-hello" target="1.8" />
       <module name="thymeleaf" target="1.8" />
+      <module name="tools-and-plug" target="1.5" />
+      <module name="unified-result" target="1.8" />
       <module name="web-parameter" target="1.8" />
     </bytecodeTargetLevel>
   </component>

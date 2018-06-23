@@ -14,9 +14,6 @@
       </configuration>
     </facet>
   </component>
-  <component name="MavenCustomPomFilePath">
-    <option name="mavenPomFileUrl" value="file://$MODULE_DIR$/hello-world.iml" />
-  </component>
   <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8">
     <output url="file://$MODULE_DIR$/target/classes" />
     <output-test url="file://$MODULE_DIR$/target/test-classes" />

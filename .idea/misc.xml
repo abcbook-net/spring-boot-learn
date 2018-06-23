@@ -20,6 +20,7 @@
         <option value="$PROJECT_DIR$/tools-and-plug/pom.xml" />
         <option value="$PROJECT_DIR$/tools-and-plug/lombok/pom.xml" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/advanced/unified-exception/pom.xml" />
       </list>
     </option>
   </component>

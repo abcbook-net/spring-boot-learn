@@ -11,6 +11,7 @@
       <module fileurl="file://$PROJECT_DIR$/start/test-hello/test-hello.iml" filepath="$PROJECT_DIR$/start/test-hello/test-hello.iml" />
       <module fileurl="file://$PROJECT_DIR$/advanced/thymeleaf/thymeleaf.iml" filepath="$PROJECT_DIR$/advanced/thymeleaf/thymeleaf.iml" />
       <module fileurl="file://$PROJECT_DIR$/tools-and-plug/tools-and-plug.iml" filepath="$PROJECT_DIR$/tools-and-plug/tools-and-plug.iml" />
+      <module fileurl="file://$PROJECT_DIR$/advanced/unified-exception/unified-exception.iml" filepath="$PROJECT_DIR$/advanced/unified-exception/unified-exception.iml" />
       <module fileurl="file://$PROJECT_DIR$/advanced/unified-result/unified-result.iml" filepath="$PROJECT_DIR$/advanced/unified-result/unified-result.iml" />
       <module fileurl="file://$PROJECT_DIR$/advanced/web-parameter/web-parameter.iml" filepath="$PROJECT_DIR$/advanced/web-parameter/web-parameter.iml" />
     </modules>

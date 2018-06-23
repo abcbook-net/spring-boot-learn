@@ -3,6 +3,7 @@
   <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
     <file url="file://$PROJECT_DIR$/advanced" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/advanced/thymeleaf" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/advanced/unified-exception" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/advanced/unified-result" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/advanced/web-parameter" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/start/hello-world" charset="UTF-8" />

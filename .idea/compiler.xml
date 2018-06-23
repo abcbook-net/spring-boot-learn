@@ -16,6 +16,7 @@
         <module name="test-hello" />
         <module name="thymeleaf" />
         <module name="tools-and-plug" />
+        <module name="unified-exception" />
         <module name="unified-result" />
         <module name="web-parameter" />
       </profile>
@@ -31,6 +32,7 @@
       <module name="test-hello" target="1.8" />
       <module name="thymeleaf" target="1.8" />
       <module name="tools-and-plug" target="1.5" />
+      <module name="unified-exception" target="1.8" />
       <module name="unified-result" target="1.8" />
       <module name="web-parameter" target="1.8" />
     </bytecodeTargetLevel>
